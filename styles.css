@@ -16,14 +16,14 @@ span{
 
 .para{
      -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-image: radial-gradient(circle, #3253c8, #7175d0, #9d99d8, #c3bfe0, #e7e7e7);
+  -webkit-text-fill-color: transparent;  
+  background-image: linear-gradient(to right, #f45f00, #cc7800, #9d8900, #679300, #06980c);
 }
 
 body{
     height: 100vh;
     display: flex;    
     justify-content: space-around;
-    margin: 0;
-    background-image: linear-gradient(to right top, #10071e, #612146, #b6423e, #d88f00, #a8eb12);
+    margin: 0;    
+    background-image: linear-gradient(to left, #ffeee8, #ffead3, #f7ebbf, #dcefb4, #b0f4b9);
 }
